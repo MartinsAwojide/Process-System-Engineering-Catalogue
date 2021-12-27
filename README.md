@@ -65,7 +65,7 @@
 ### Industry 4.0
 | Description | Source | Time of Publication | Keywords |
 | :--- | :---:|---:|:---: |
-|||||
+|[Universal Digital Twin - A Dynamic Knowledge Graph](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FD25CDFF886CD2ED33D1FDFC13F6BEAB/S2632673621000101a.pdf/universal-digital-twin-a-dynamic-knowledge-graph.pdf)|Data-Centric Engineering|June 2021|Agents; data; digital twin; dynamic knowledge graph; interoperability|
 |||||
 
 ### Data
