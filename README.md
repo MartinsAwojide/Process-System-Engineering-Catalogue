@@ -7,7 +7,7 @@
 ### Modelling and Simulation
 | Description | Source | Time of Publication | Keywords |
 | :--- | :---:|---:|:---: |
-|||||
+|[Deep kernel learning approach to engine emissions modeling](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/638332CFF08E18BCD55D6ACC75BB3B28/S2632673620000040a.pdf/deep-kernel-learning-approach-to-engine-emissions-modeling.pdf)|Data-Centric Engineering|May 2020|Deep kernel learning; emissions; surrogate models; Gaussian processes; internal combustion engines|
 |||||
 
 ### Computational Benchmarking
@@ -19,7 +19,7 @@
 ### Optimization
 | Description | Source | Time of Publication | Keywords |
 | :--- | :---:|---:|:---: |
-|||||
+|[Game theory-based renewable multi-energy system design and subsidy strategy optimization](https://reader.elsevier.com/reader/sd/pii/S2666792421000172?token=3519BCBA98C9AF6F14E9873B82F62EDF4FBB3BA4365DF35CC5C9838A813A73F0E8A088109D278B0DCAB77686ED9C7242&originRegion=eu-west-1&originCreation=20211227015718)|Advances in Applied Energy|March 2021|Multi-Energy System, Renewable Energy, Game Theory, Subsidy Strategy, Decarbonization|
 |||||
 
 ### Control
@@ -71,7 +71,7 @@
 ### Data
 | Description | Source | Time of Publication | Keywords |
 | :--- | :---:|---:|:---: |
-|||||
+|[The semantics of Chemical Markup Language (CML) for computational chemistry : CompChem](https://jcheminf.biomedcentral.com/track/pdf/10.1186/1758-2946-4-15.pdf)|Journal of Cheminformatics|June 2021|CML, XML|
 |||||
 
 ### Cloud and Edge Computing
@@ -110,3 +110,4 @@
 # Labs
 
 # Resources
+[Dendral](https://en.wikipedia.org/wiki/Dendral)
