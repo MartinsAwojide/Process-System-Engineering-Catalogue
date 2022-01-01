@@ -49,7 +49,7 @@
 |||||
 </details>
 
-<details><summaryPower & Energy</summary>
+<details><summary>Power & Energy</summary>
 
 | Description | Source | Time of Publication | Keywords |
 | :--- | :---:|---:|:---: |
