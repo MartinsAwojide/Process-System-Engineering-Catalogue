@@ -11,7 +11,7 @@
 |||||
 
 <details>
-  <summary>### Computational Benchmarking</summary>
+<summary>### Computational Benchmarking</summary>
 
 | Description | Source | Time of Publication | Keywords |
 | :--- | :---:|---:|:---: |
