@@ -6,7 +6,7 @@
 
 ## Mathematical Modelling and Computational Theory
 
-<details><summary>Modelling and Simulation/summary>
+<details><summary>Modelling and Simulation</summary>
 
 | Description | Source | Time of Publication | Keywords |
 | :--- | :---:|---:|:---: |
