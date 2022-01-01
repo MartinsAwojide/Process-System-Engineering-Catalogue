@@ -10,12 +10,15 @@
 |[Deep kernel learning approach to engine emissions modeling](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/638332CFF08E18BCD55D6ACC75BB3B28/S2632673620000040a.pdf/deep-kernel-learning-approach-to-engine-emissions-modeling.pdf)|Data-Centric Engineering|May 2020|Deep kernel learning; emissions; surrogate models; Gaussian processes; internal combustion engines|
 |||||
 
-### Computational Benchmarking
+<details>
+  <summary>### Computational Benchmarking</summary>
+
 | Description | Source | Time of Publication | Keywords |
 | :--- | :---:|---:|:---: |
 |||||
 |||||
-
+</details>
+  
 ### Optimization
 | Description | Source | Time of Publication | Keywords |
 | :--- | :---:|---:|:---: |
