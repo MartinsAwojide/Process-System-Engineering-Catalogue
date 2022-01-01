@@ -142,5 +142,5 @@
 # Labs
 
 # Resources
-Dendral [link](https://en.wikipedia.org/wiki/Dendral)
-Black and Latinx in PSE [link](https://docs.google.com/spreadsheets/d/1YRKdPS9Ezc0-gi8uZVzFtOsAmlsSzK9EwFZ-IvG4rfY/edit#gid=1405385316)
+- Dendral [link](https://en.wikipedia.org/wiki/Dendral)
+- Black and Latinx in PSE [link](https://docs.google.com/spreadsheets/d/1YRKdPS9Ezc0-gi8uZVzFtOsAmlsSzK9EwFZ-IvG4rfY/edit#gid=1405385316)
