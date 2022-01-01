@@ -83,6 +83,14 @@
 
 ## Industrial Applications
 
+<details><summary>Process Intensification</summary>
+
+| Description | Source | Time of Publication | Keywords |
+| :--- | :---:|---:|:---: |
+|||||
+|||||
+</details>
+
 <details><summary>Industry 4.0</summary>
 
 | Description | Source | Time of Publication | Keywords |
