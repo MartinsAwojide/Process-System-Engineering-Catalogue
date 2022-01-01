@@ -121,7 +121,7 @@
 
 | Description | Source | Time of Publication | Keywords |
 | :--- | :---:|---:|:---: |
-|||||
+|[Improvement of Tablet Coating Uniformity Using a Quality by Design Approach](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3299457/)|PubMed|March 2012|kriging, LIBS, quality by design, response surface, tablet coating|
 |||||
 </details>
 
