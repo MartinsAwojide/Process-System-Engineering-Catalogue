@@ -145,14 +145,33 @@
 |||||
 </details>
 
-# Resources
-
 # Articles
 
 # Projects
 
 # Labs
 
+# Courses
+- Convex Optimization - EdX Stanford [link](https://www.edx.org/course/convex-optimization)
+- Constrained Optimization Problems - Coursera [Course Intro Video](https://www.youtube.com/watch?v=hc3cBvtrem0&t=8s)
+
 # Resources
 - Dendral [link](https://en.wikipedia.org/wiki/Dendral)
 - Black and Latinx in PSE [link](https://docs.google.com/spreadsheets/d/1YRKdPS9Ezc0-gi8uZVzFtOsAmlsSzK9EwFZ-IvG4rfY/edit#gid=1405385316)
+- Convex Optimization in Python (CVXPY) [link](https://www.cvxpy.org/) [Github](https://github.com/cvxpy/cvxpy) [Discord](https://discord.gg/4urRQeGBCr)
+- Embedded Conic Solver (ECOS) [Github](https://github.com/embotech/ecos)
+- Python for Splitting Conic Solver (SCS) [Github](https://github.com/bodono/scs-python)
+- Operator Splitting Quadratic Program Solver (OSQP) [link](https://osqp.org/) [Github](https://github.com/osqp/osqp) [Discord](https://osqp.discourse.group/)
+- SnapVX: Python Network-Based Optimization Solver [link](http://snap.stanford.edu/snapvx/)
+- MiniZinc for Constrained Optimization Problems [link](https://www.minizinc.org/) [Github](https://github.com/MiniZinc) 
+- IBM ILOG CPLEX Optimization Studio: Free Edition [link](https://www.ibm.com/account/reg/us-en/signup?formid=urx-20028)
+- Oracle-Structured Minimization Python Solver [Github](https://github.com/cvxgrp/osmm)
+- CVXPyLayers for PyTorch, JAX and Tensorflow [Github](https://github.com/cvxgrp/cvxpylayers/)
+- Geometric Programming (GP) Kit [link](https://gpkit.readthedocs.io/en/latest/)
+- Convex Optimization in R (CVXR) [link](https://cvxr.rbind.io/)
+- Python Interface for Conic Optimization Solver (PICOS) [link](https://picos-api.gitlab.io/picos/)
+- Python for Convex Optimzation [link](http://cvxopt.org/)
+- GUROBI: Paid [link](https://www.gurobi.com/)
+- MOSEK: Paid [link](https://www.mosek.com/)
+- NextMV: Paid [link](https://www.nextmv.io/)
+- 
