@@ -167,7 +167,7 @@
 
 # Resources
 - Dendral [link](https://en.wikipedia.org/wiki/Dendral)
-- [TinyML Catalogue](https://github.com/gigwegbe/tinyml-papers-and-projects)
+- TinyML Catalogue [link](https://github.com/gigwegbe/tinyml-papers-and-projects)
 - Black and Latinx in PSE [link](https://docs.google.com/spreadsheets/d/1YRKdPS9Ezc0-gi8uZVzFtOsAmlsSzK9EwFZ-IvG4rfY/edit#gid=1405385316)
 - Convex Optimization in Python (CVXPY) [link](https://www.cvxpy.org/) [Github](https://github.com/cvxpy/cvxpy) [Discord](https://discord.gg/4urRQeGBCr)
 - Embedded Conic Solver (ECOS) [Github](https://github.com/embotech/ecos)
