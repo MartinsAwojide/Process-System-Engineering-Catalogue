@@ -147,12 +147,17 @@
 </details>
 
 # Articles
+
+<details><summary>Optimization Articles</summary>
+  
 | Description | Source | Keywords |
 | :--- | :---:|:---: |
 |[Differentiable Convex Optimization Layers](https://web.stanford.edu/~boyd/papers/pdf/diff_cvxpy.pdf)|NeurIPS|Convex Optimization, PyTorch, JAX, Tensorflow|
 |[Disciplined Multi-Convex Programming](https://arxiv.org/pdf/1609.03285.pdf)|ArXiv-Oct 2016||
 ||||
 </details>
+
+# Projects
 
 # Labs
 
@@ -179,4 +184,3 @@
 - GUROBI: Paid [link](https://www.gurobi.com/)
 - MOSEK: Paid [link](https://www.mosek.com/)
 - NextMV: Paid [link](https://www.nextmv.io/)
-- 
