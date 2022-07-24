@@ -188,3 +188,4 @@
 - Pyomo: Python Modelling Language for structured optimization problems [Website](www.pyomo.org) [Github](https://www.github.com/Pyomo/pyomo) 
 - CasADi: Symbolic framework for Numeric Optimization [Website](www.casadi.org) [Github](https://www.github.com/casadi/casadi)
 - GEKKO: Python for Machine Learning and Dynamic Optimization [Website](www.machinelearning.byu.edu) [Github](https://www.github.com/BYU-PRISM/GEKKO)
+- JuMP: Modelling Language for Mathematical Optimization using Julia [Website](www.jump.dev) [Github](https://github.com/jump-dev/JuMP.jl)
