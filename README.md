@@ -165,10 +165,11 @@
 - Convex Optimization - EdX Stanford [link](https://www.edx.org/course/convex-optimization)
 - Constrained Optimization Problems - Coursera [Course Intro Video](https://www.youtube.com/watch?v=hc3cBvtrem0&t=8s)
 
-# Resources
-- Dendral [link](https://en.wikipedia.org/wiki/Dendral)
-- TinyML Catalogue [link](https://github.com/gigwegbe/tinyml-papers-and-projects)
-- Black and Latinx in PSE [link](https://docs.google.com/spreadsheets/d/1YRKdPS9Ezc0-gi8uZVzFtOsAmlsSzK9EwFZ-IvG4rfY/edit#gid=1405385316)
+# Tools (Free)
+- Pyomo: Python Modelling Language for structured optimization problems [Website](www.pyomo.org) [Github](https://www.github.com/Pyomo/pyomo) 
+- CasADi: Symbolic framework for Numeric Optimization [Website](www.casadi.org) [Github](https://www.github.com/casadi/casadi)
+- GEKKO: Python for Machine Learning and Dynamic Optimization [Website](www.machinelearning.byu.edu) [Github](https://www.github.com/BYU-PRISM/GEKKO)
+- JuMP: Modelling Language for Mathematical Optimization using Julia [Website](www.jump.dev) [Github](https://github.com/jump-dev/JuMP.jl)
 - Convex Optimization in Python (CVXPY) [link](https://www.cvxpy.org/) [Github](https://github.com/cvxpy/cvxpy) [Discord](https://discord.gg/4urRQeGBCr)
 - Embedded Conic Solver (ECOS) [Github](https://github.com/embotech/ecos)
 - Python for Splitting Conic Solver (SCS) [Github](https://github.com/bodono/scs-python)
@@ -182,10 +183,13 @@
 - Convex Optimization in R (CVXR) [link](https://cvxr.rbind.io/)
 - Python Interface for Conic Optimization Solver (PICOS) [link](https://picos-api.gitlab.io/picos/)
 - Python for Convex Optimzation [link](http://cvxopt.org/)
+- Dendral [link](https://en.wikipedia.org/wiki/Dendral)
+
+# Tools (Paid)
 - GUROBI: Paid [link](https://www.gurobi.com/)
 - MOSEK: Paid [link](https://www.mosek.com/)
 - NextMV: Paid [link](https://www.nextmv.io/)
-- Pyomo: Python Modelling Language for structured optimization problems [Website](www.pyomo.org) [Github](https://www.github.com/Pyomo/pyomo) 
-- CasADi: Symbolic framework for Numeric Optimization [Website](www.casadi.org) [Github](https://www.github.com/casadi/casadi)
-- GEKKO: Python for Machine Learning and Dynamic Optimization [Website](www.machinelearning.byu.edu) [Github](https://www.github.com/BYU-PRISM/GEKKO)
-- JuMP: Modelling Language for Mathematical Optimization using Julia [Website](www.jump.dev) [Github](https://github.com/jump-dev/JuMP.jl)
+
+# Resources
+- TinyML Catalogue [link](https://github.com/gigwegbe/tinyml-papers-and-projects)
+- Black and Latinx in PSE [link](https://docs.google.com/spreadsheets/d/1YRKdPS9Ezc0-gi8uZVzFtOsAmlsSzK9EwFZ-IvG4rfY/edit#gid=1405385316)
