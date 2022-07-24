@@ -185,3 +185,4 @@
 - GUROBI: Paid [link](https://www.gurobi.com/)
 - MOSEK: Paid [link](https://www.mosek.com/)
 - NextMV: Paid [link](https://www.nextmv.io/)
+- Pyomo: An object-oriented algebraic modelling language in Python for structured optimization problems [link](www.pyomo.org) [link](https://www.github.com/Pyomo/pyomo) 
