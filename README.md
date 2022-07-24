@@ -186,3 +186,4 @@
 - MOSEK: Paid [link](https://www.mosek.com/)
 - NextMV: Paid [link](https://www.nextmv.io/)
 - Pyomo: Python Modelling Language for structured optimization problems [Website](www.pyomo.org) [Github](https://www.github.com/Pyomo/pyomo) 
+- CasADi: Symbolic framework for Numeric Optimization [Website](www.casadi.org) [Github](https://www.github.com/casadi/casadi)
