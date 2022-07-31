@@ -191,6 +191,7 @@
 - NextMV: Paid [link](https://www.nextmv.io/)
 
 # Resources
+- 2040 Visions of Process Systems Engineering [YouTube Playlist](https://www.youtube.com/playlist?list=PL1Z8XsQQiN4MUNGsCZSeoT_kr9J-loncC)
 - TinyML Catalogue [Github Repo](https://github.com/gigwegbe/tinyml-papers-and-projects)
 - Black and Latinx in PSE [Spreadsheet](https://docs.google.com/spreadsheets/d/1YRKdPS9Ezc0-gi8uZVzFtOsAmlsSzK9EwFZ-IvG4rfY/edit#gid=1405385316)
 - Opportunities - Computing & Systems Technology Division | AIChE [link](https://listserv.umd.edu/cgi-bin/wa?A1=ind2207&L=CAST10)
