@@ -191,6 +191,7 @@
 
 # Resources
 - 2040 Visions of Process Systems Engineering [YouTube Playlist](https://www.youtube.com/playlist?list=PL1Z8XsQQiN4MUNGsCZSeoT_kr9J-loncC)
+- Artificial Intelligence in PSE [Video Link](https://www.youtube.com/watch?v=VFOVmEQE8y4&t=4326s)
 - TinyML Catalogue [Github Repo](https://github.com/gigwegbe/tinyml-papers-and-projects)
 - Black and Latinx in PSE [Spreadsheet](https://docs.google.com/spreadsheets/d/1YRKdPS9Ezc0-gi8uZVzFtOsAmlsSzK9EwFZ-IvG4rfY/edit#gid=1405385316)
 - Dendral [link](https://en.wikipedia.org/wiki/Dendral)
