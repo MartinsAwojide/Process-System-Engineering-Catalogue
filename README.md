@@ -190,6 +190,7 @@
 - NextMV: Paid [link](https://www.nextmv.io/)
 
 # Resources
+- Process Systems Engineering - *The generation next?* [Article](https://www.sciencedirect.com/science/article/pii/S0098135421000302/pdfft?md5=0619826e1f1a6477a49f25bbafd0a889&pid=1-s2.0-S0098135421000302-main.pdf)
 - 2040 Visions of Process Systems Engineering [YouTube Playlist](https://www.youtube.com/playlist?list=PL1Z8XsQQiN4MUNGsCZSeoT_kr9J-loncC)
 - Artificial Intelligence in PSE [Video Link](https://www.youtube.com/watch?v=VFOVmEQE8y4&t=4326s)
 - TinyML Catalogue [Github Repo](https://github.com/gigwegbe/tinyml-papers-and-projects)
