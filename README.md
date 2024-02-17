@@ -162,8 +162,10 @@
 # Labs
 
 # Courses
-- Convex Optimization - EdX Stanford [link](https://www.edx.org/course/convex-optimization)
-- Constrained Optimization Problems - Coursera [Course Intro Video](https://www.youtube.com/watch?v=hc3cBvtrem0&t=8s)
+- CHE 597: Computational Optimization, Spring 2024 [link](https://canli1.github.io/courses)
+- Linear Optimization ISyE 6661, Fall 2020 [link](https://www2.isye.gatech.edu/~sdey30/CourseLinearProgramming.html)
+- Convex Optimization: Fall 2019 [link](https://www.stat.cmu.edu/~ryantibs/convexopt/)
+- ISE 418: Integer Programming [link](https://coral.ise.lehigh.edu/~ted/teaching/ie418/)
 
 # Tools (Free)
 - Pyomo: Python Modelling Language for structured optimization problems [Website](www.pyomo.org) [Github](https://www.github.com/Pyomo/pyomo) 
